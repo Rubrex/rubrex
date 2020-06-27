@@ -13,7 +13,7 @@ function App() {
             <p>This site is under construction , will be back soon .</p>
           </div>
           <div className="social-media">
-            <a href="">Discord</a>
+            <a href="#">Discord</a>
             <a href="https://facebook.com/rubrexx">Facebook</a>
             <a href="https://t.me/rubrexx">Telegram</a>
           </div>
